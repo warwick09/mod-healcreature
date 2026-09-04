@@ -8,7 +8,7 @@ The module does not modify the core Valithria encounter script.
 
 Installation:
 
-From your AzerothCore root (Debian):
+From your AzerothCore root:
 
 1. Go to your modules folder
 2. git clone https://github.com/warwick09/mod-healcreature.git
