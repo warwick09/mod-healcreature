@@ -25,9 +25,9 @@ The command is restricted to players with the AzerothCore GM command permission 
 Module Structure:
 mod-healcreature/
 
+
 └── src/
     ├── healcreature.cpp
-    
     └── mod_healcreature_loader.cpp
 
 No additional configuration file is required.
