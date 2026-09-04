@@ -9,7 +9,7 @@ Installation:
 From your AzerothCore root (Debian):
 
 1. Go to your modules folder
-2. git clone https://github.com/YOUR_USERNAME/mod-healcreature.git
+2. git clone https://github.com/warwick09/mod-healcreature.git
 
 Then run your normal AzerothCore build/compile script.
 
